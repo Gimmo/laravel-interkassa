@@ -1,2 +1,2 @@
 # laravel-interkassa
-Simple interkassa payment
+Simple interkassa payment 
